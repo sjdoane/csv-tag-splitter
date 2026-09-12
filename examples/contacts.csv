@@ -1,0 +1,6 @@
+id,phone,tags,note
+001,000123,North;Wholesale,Keep the leading zeros
+002,000456,North,"A note, with a comma"
+003,000789,,Unassigned record
+004,000012,Wholesale,"Two lines
+in one field"

@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "North",
+    "Wholesale"
+  ],
+  "tag_column": "tags",
+  "tag_separator": ";",
+  "columns": [
+    [
+      "ID",
+      "id"
+    ],
+    [
+      "Phone",
+      "phone"
+    ],
+    [
+      "Tags",
+      "tags"
+    ],
+    [
+      "Notes",
+      "note"
+    ]
+  ],
+  "duplicates": "retain",
+  "multi_tag": "replicate",
+  "untagged": "separate",
+  "unknown_tags": "reject",
+  "formula_like": "reject"
+}
