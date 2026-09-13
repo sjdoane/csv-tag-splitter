@@ -4,6 +4,14 @@ Split a contact export into tag groups without turning `001` into `1`, dropping 
 
 This is an independent Python work sample by Sam Doane. It demonstrates a small, auditable data-transformation workflow with explicit rules and a reconciliation report. The included data is synthetic; this is not a commissioned project or a certified CRM importer.
 
+## Need an export prepared for import?
+
+I offer fixed-price CSV preparation starting at **$75 USD**, with the final scope and price confirmed before a contract starts. A typical small task is one UTF-8 CSV of up to 12,000 rows and 25 MB, split into up to ten groups using one tag column, with columns mapped to your supplied template.
+
+You receive the output CSVs, a row-count and file-hash reconciliation report, the agreed transformation rules, and one correction round for those rules. The original export stays unchanged. This scope excludes finding contact details, merging conflicting records, inventing missing values, logging into your CRM, or guaranteeing that a destination system will accept the files.
+
+[Contact Sam on Upwork](https://www.upwork.com/freelancers/~0178ba22c34ac67dda) with the destination headers, your grouping rules, and a small redacted or synthetic example. We agree on feasibility, acceptance checks, turnaround, data handling and funding before work starts. Please do not send a full customer export with your first message or put private data in a GitHub issue. I use automation and AI coding assistance; the delivered files are checked against the agreed rules.
+
 ## Try the example
 
 Python 3 and the standard library are sufficient; no packages or accounts are needed. Run from the repository directory:
