@@ -12,7 +12,7 @@ You receive the output CSVs, a row-count and file-hash reconciliation report, th
 
 [Contact Sam on Upwork](https://www.upwork.com/freelancers/~0178ba22c34ac67dda) with a small redacted or synthetic sample and an example of the output you need. I’ll review whether I can handle it and reply with a fixed scope, price and delivery date before you commit. Please do not send a full customer export with your first message or put private data in a GitHub issue.
 
-Before work starts, we confirm the transformation rules, acceptance checks, data handling and funding. I use automation and AI coding assistance; the delivered files are checked against the agreed rules.
+Before work starts, we agree on the transformation rules, acceptance checks, data handling and payment.
 
 ## Try the example
 
