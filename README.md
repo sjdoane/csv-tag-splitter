@@ -10,7 +10,9 @@ I offer fixed-price CSV preparation starting at **$75 USD**, with the final scop
 
 You receive the output CSVs, a row-count and file-hash reconciliation report, the agreed transformation rules, and one correction round for those rules. The original export stays unchanged. This scope excludes finding contact details, merging conflicting records, inventing missing values, logging into your CRM, or guaranteeing that a destination system will accept the files.
 
-[Contact Sam on Upwork](https://www.upwork.com/freelancers/~0178ba22c34ac67dda) with a small redacted or synthetic sample and an example of the output you need. I’ll review whether I can handle it and reply with a fixed scope, price and delivery date before you commit. Please do not send a full customer export with your first message or put private data in a GitHub issue.
+For a new inquiry, [email Sam](mailto:poarchive.support@proton.me?subject=CSV%20preparation%20inquiry) or [contact Sam on Upwork](https://www.upwork.com/freelancers/~0178ba22c34ac67dda) with a small redacted or synthetic sample and an example of the output you need. I’ll review whether I can handle it and reply with a fixed scope, price and delivery date before you commit. Please do not send a full customer export with your first message or put private data in a GitHub issue.
+
+For projects that originated on Upwork, keep communication and payment on Upwork.
 
 Before work starts, we agree on the transformation rules, acceptance checks, data handling and payment.
 
